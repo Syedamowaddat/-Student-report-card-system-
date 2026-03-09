@@ -1,21 +1,45 @@
-# -Student-report-card-system-
-🎓 Student Report Card System 📋
-A powerful and user-friendly C++ Console-based application designed to efficiently manage student academic records. This project is an effective combination of File Handling and Procedural Programming.  
-🌟 Overview
-This system eliminates manual record-keeping by providing a digital solution for academic data management. It features a menu-driven interface, utilizing file handling to ensure permanent data storage for future use.  
-🛠 Features
-Add Students: Allows inputting student names and marks.  
-Show Students: Displays all student records along with their calculated percentages.  
-Edit Records: Enables users to update existing student information using their roll number.  
-Delete Records: Provides the ability to remove student records from the database.  
-Permanent Storage: All data is automatically saved to a text file.  
-⚙️ Technology & Approach
-Language: C++  
-Programming Approach: Procedural Programming  
-Data Handling: Utilizes functions, arrays, loops, and file handling  
-Validation: Marks are validated to ensure they remain between 0 and 1100.  
-✍️ Author
-Mowaddat Zahra and others group members.
-Submitted To: Dr. Wajid Aziz  
-🏁 Conclusion
-The Student Report Card System is a reliable procedural C++ application that demonstrates fundamental programming concepts .
+# 🎓 **Student Report Card System**
+
+---
+
+### **📋 Overview**
+A professional and user-friendly **C++ Console-based application** designed to manage student academic records efficiently. This project demonstrates the effective implementation of **File Handling** and **Procedural Programming** logic.
+
+
+
+---
+
+### **✨ Key Features**
+* **➕ Add Students**: Quickly input student names and marks.
+* **📊 Show Students**: Displays all stored records along with their calculated percentages.
+* **✏️ Edit Records**: Easily update existing student information using their unique roll number.
+* **🗑️ Delete Records**: Efficiently remove student records from the database.
+* **💾 Permanent Storage**: All data is automatically saved to a text file, ensuring nothing is lost.
+
+---
+
+### **🛠 Technology & Approach**
+* **Language**: **C++**
+* **Programming Approach**: **Procedural Programming**
+* **Data Structure**: Uses **Arrays** to store student details like roll number, name, and marks.
+* **Data Validation**: Marks are strictly validated to stay between **0 and 1100**.
+
+---
+
+### 📂 Project Files
+* **`README.md`**: Project documentation and overview.
+* **[span_10](start_span)`main.cpp`**: Core source code containing the logic and functionality. [cite: 10, 21-41]
+* [cite_start]**`STUDENT_REPORT_CARD_SYSTEM.pdf`**: Complete formal report and project documentation. [cite: 1-11, 48]
+
+---
+
+
+### **✍️ Author**
+* **Mowaddat Zahra** 
+
+---
+
+### **🏁 Conclusion**
+The **Student Report Card System** is a reliable application that demonstrates fundamental programming.
+
+---
