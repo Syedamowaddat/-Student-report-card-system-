@@ -28,8 +28,8 @@ A professional and user-friendly **C++ Console-based application** designed to m
 
 ### 📂 Project Files
 * **`README.md`**: Project documentation and overview.
-* **[span_10](start_span)`main.cpp`**: Core source code containing the logic and functionality. [cite: 10, 21-41]
-* [cite_start]**`STUDENT_REPORT_CARD_SYSTEM.pdf`**: Complete formal report and project documentation. [cite: 1-11, 48]
+* **(start_span)`main.cpp`**: Core source code containing the logic and functionality. [cite: 10, 21-41]
+* **`STUDENT_REPORT_CARD_SYSTEM.pdf`**: Complete formal report and project documentation. [cite: 1-11, 48]
 
 ---
 
